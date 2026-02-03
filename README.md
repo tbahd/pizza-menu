@@ -4,6 +4,11 @@ A simple React application that displays a pizza restaurant menu with dynamic av
 
 ---
 
+## Live Preview
+pisza-menu.netlify.app
+
+---
+
 ## 🚀 Features
 
 * Displays a list of pizzas dynamically from data
